@@ -79,7 +79,7 @@ $connection = mysqli_connect($Host,$User_Name,$Pass_Word,$Database);
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="Index.php"><b>Ruthless Real Estate - Admin Site</b></a>
+            <a class="navbar-brand" href="index.php"><b>Ruthless Real Estate - Admin Site</b></a>
         </div>
         <!-- Top Menu Items -->
         <ul class="nav navbar-right top-nav">
@@ -96,7 +96,7 @@ $connection = mysqli_connect($Host,$User_Name,$Pass_Word,$Database);
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav side-nav">
                 <li>
-                    <a href="Index.php"><i class="fa fa-home"></i> Homepage</a>
+                    <a href="index.php"><i class="fa fa-home"></i> Homepage</a>
                 </li>
                 <li class="active">
                     <a href="#"><i class="fa fa-users"></i> Clients</a>
@@ -133,7 +133,7 @@ $connection = mysqli_connect($Host,$User_Name,$Pass_Word,$Database);
                     </h1>
                     <ol class="breadcrumb">
                         <li>
-                            <i class="fa fa-home"></i>  <a href="Index.php">Home</a>
+                            <i class="fa fa-home"></i>  <a href="index.php">Home</a>
                         </li>
                         <li>
                             <i class="fa fa-users"></i> <a href="Client.php">Clients</a>

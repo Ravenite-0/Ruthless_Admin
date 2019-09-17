@@ -55,7 +55,7 @@ session_destroy();
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="Index.php"><b>Ruthless Real Estate - Admin Site</b></a>
+                            <a class="navbar-brand" href="index.php"><b>Ruthless Real Estate - Admin Site</b></a>
                         </div>
                         <!-- Top Menu Items -->
                         <ul class="nav navbar-right top-nav">
@@ -67,7 +67,7 @@ session_destroy();
                         <div class="collapse navbar-collapse navbar-ex1-collapse">
                             <ul class="nav navbar-nav side-nav">
                                 <li>
-                                    <a href="Index.php"><i class="fa fa-home"></i> Homepage</a>
+                                    <a href="index.php"><i class="fa fa-home"></i> Homepage</a>
                                 </li>
                                 <li>
                                     <a href="Client.php"><i class="fa fa-users"></i> Clients</a>
@@ -169,7 +169,7 @@ session_destroy();
                     if(isset($_SESSION["Previous"])){
                         header("Location:".$_SESSION["Previous"]);
                     }else{
-                        header("Location:Index.php");
+                        header("Location:index.php");
                     }
                 } else {
                     session_destroy();
