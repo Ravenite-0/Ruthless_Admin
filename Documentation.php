@@ -158,24 +158,8 @@ ob_start();
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>zhu65</td>
-                                    <td>zhu65</td>
-                                </tr>
-                                <tr>
-                                    <td>bxhao1</td>
-                                    <td>bxhao1</td>
-                                </tr>
-                                <tr>
-                                    <td>janetf</td>
-                                    <td>finaltest</td>
-                                </tr>
-                                <tr>
-                                    <td>HD</td>
-                                    <td>goodgrades</td>
-                                </tr>
-                                <tr>
-                                    <td>Admin_Test</td>
-                                    <td>admin</td>
+                                    <td>Admin</td>
+                                    <td>Admin</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -247,129 +231,6 @@ ob_start();
                     </div>
                 </div>
 
-                <br>
-                <br>
-                <h5><i>Client Data</i></h5>
-                <br>
-                <br>
-                <h5>Property Data</h5>
-                <br>
-                <br>
-                <h5>Admin Data</h5>
-
-                <br>
-                <br>
-                <br>
-                <h3><b>Team Contribution Details:</b></h3>
-                <div class="row">
-                    <div class="table-responsive col-lg-6">
-                        <table class="table table-bordered table-hover table-striped">
-                            <thead>
-                            <tr>
-                                <th></th>
-                                <th>Zhanpeng Hu</th>
-                                <th>Boxin Hao</th>
-                            </tr>
-                            </thead>
-                            <tbody>
-                            <tr>
-                                <td>Client.PHP</td>
-                                <td><input type="checkbox" disabled checked/></td>
-                                <td><input type="checkbox" disabled/></td>
-                            </tr>
-                            <tr>
-                                <td>Client_Modify.PHP</td>
-                                <td><input type="checkbox" disabled checked/></td>
-                                <td><input type="checkbox" disabled/></td>
-                            </tr>
-                            <tr>
-                                <td>Connection.PHP</td>
-                                <td><input type="checkbox" disabled checked/></td>
-                                <td><input type="checkbox" disabled checked/></td>
-                            </tr>
-                            <tr>
-                                <td>Documentation.PHP</td>
-                                <td><input type="checkbox" disabled checked/></td>
-                                <td><input type="checkbox" disabled checked/></td>
-                            </tr>
-                            <tr>
-                                <td>EMail.PHP</td>
-                                <td><input type="checkbox" disabled checked/></td>
-                                <td><input type="checkbox" disabled/></td>
-                            </tr>
-                            <tr>
-                                <td>Feature_Modify.PHP</td>
-                                <td><input type="checkbox" disabled/></td>
-                                <td><input type="checkbox" disabled checked/></td>
-                            </tr>
-                            <tr>
-                                <td>Features.PHP</td>
-                                <td><input type="checkbox" disabled/></td>
-                                <td><input type="checkbox" disabled checked/></td>
-                            </tr>
-                            <tr>
-                                <td>Index.PHP</td>
-                                <td><input type="checkbox" disabled/></td>
-                                <td><input type="checkbox" disabled checked/></td>
-                            </tr>
-                            <tr>
-                                <td>Images.PHP</td>
-                                <td><input type="checkbox" disabled/></td>
-                                <td><input type="checkbox" disabled checked/></td>
-                            </tr>
-                            <tr>
-                                <td>Login.PHP</td>
-                                <td><input type="checkbox" disabled checked/></td>
-                                <td><input type="checkbox" disabled/></td>
-                            </tr>
-                            <tr>
-                                <td>PDF.PHP</td>
-                                <td><input type="checkbox" disabled checked/></td>
-                                <td><input type="checkbox" disabled/></td>
-                            </tr>
-                            <tr>
-                                <td>Property.PHP</td>
-                                <td><input type="checkbox" disabled checked/></td>
-                                <td><input type="checkbox" disabled/></td>
-                            </tr>
-                            <tr>
-                                <td>Property_Modify.PHP</td>
-                                <td><input type="checkbox" disabled checked/></td>
-                                <td><input type="checkbox" disabled checked/></td>
-                            </tr>
-                            <tr>
-                                <td>Property_Multi_Edit.PHP</td>
-                                <td><input type="checkbox" disabled checked/></td>
-                                <td><input type="checkbox" disabled/></td>
-                            </tr>
-                            <tr>
-                                <td>Source_Code.PHP</td>
-                                <td><input type="checkbox" disabled checked/></td>
-                                <td><input type="checkbox" disabled/></td>
-                            </tr>
-                            <tr>
-                                <td>Type_Modify.PHP</td>
-                                <td><input type="checkbox" disabled/></td>
-                                <td><input type="checkbox" disabled checked/></td>
-                            </tr>
-                            <tr>
-                                <td>Types.PHP</td>
-                                <td><input type="checkbox" disabled/></td>
-                                <td><input type="checkbox" disabled checked/></td>
-                            </tr>
-                            <tr>
-                                <td>Databases</td>
-                                <td><input type="checkbox" disabled/></td>
-                                <td><input type="checkbox" disabled checked/></td>
-                            </tr>
-                            <tr>
-                                <td>Data Testing</td>
-                                <td><input type="checkbox" disabled checked/></td>
-                                <td><input type="checkbox" disabled/></td>
-                            </tr>
-                            </tbody>
-                        </table>
-                    </div>
                 </div>
             </div>
             <!-- /.row -->

@@ -1,6 +1,6 @@
 <?php
-$Host="130.194.7.82";
-$User_Name="s28056434";
-$Pass_Word="monash00";
-$Database="s28056434";
+$Host="localhost";
+$User_Name="id10777544_jack_hu";
+$Pass_Word="FIT2016Monash";
+$Database="id10777544_ruthless_admin";
 ?>
